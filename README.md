@@ -6,6 +6,8 @@
 
 >[`Bots Amino Curso`](https://github.com/drevenzz/BotsAminoCurso) - Bots created in a course using the BotAmino library in Python
 
+>[`Drevenzz Bot`](https://github.com/drevenzz/drevenzz-bot) - Bot created by me for AminoApps.com in Python
+
 ### Meet me at
 
 - [`keldrysh`](https://youtube.com/keldrysh) In YouTube
