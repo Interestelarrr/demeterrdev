@@ -3,6 +3,7 @@
 ## Portfolio
 
 >[`Portfolio PyQt5`](https://github.com/drevenzz/portfolio-pyqt5) - My projects in PyQt5
+>[`Bots Amino Curso`](https://github.com/drevenzz/BotsAminoCurso) - Bots created in a course using the BotAmino library in Python
 
 ### Meet me at
 
