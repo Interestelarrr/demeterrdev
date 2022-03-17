@@ -17,4 +17,3 @@
 #### Statistics
 
 ![github_statistics](https://github-readme-stats.vercel.app/api?username=drevenzz&show_icons=true&theme=dark&hide_border=true)
-![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drevenzz&theme=dark&hide_border=true) 
