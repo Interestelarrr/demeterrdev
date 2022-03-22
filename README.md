@@ -13,7 +13,7 @@
 ### Meet me at
 
 - [`keldrysh`](https://youtube.com/keldrysh) In YouTube
-- [`demeter`](https://www.youtube.com/channel/UCI5EiIbqc5pvZ1xqQq1YxfA/featured) In YouTube
+- [`demeter `](https://www.youtube.com/channel/UCI5EiIbqc5pvZ1xqQq1YxfA/featured) In YouTube
 
 #### Statistics
 
