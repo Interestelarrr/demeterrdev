@@ -2,13 +2,13 @@
 
 ## Portfolio
 
->[`Portfolio PyQt5`](https://github.com/demeter/portfolio-pyqt5) - My projects in PyQt5
+>[`Portfolio PyQt5`](https://github.com/demeterrdev/portfolio-pyqt5) - My projects in PyQt5
 
->[`Docs EdAmino Spanish & Clases`](https://github.com/demeter/DocsEdAminoSpanish) - Spanish translation of the EdAmino library documentation, along with Bots Created in a class on my youtube channel.
+>[`Docs EdAmino Spanish & Clases`](https://github.com/demeterrdev/DocsEdAminoSpanish) - Spanish translation of the EdAmino library documentation, along with Bots Created in a class on my youtube channel.
 
->[`Bots Amino Curso`](https://github.com/demeter/BotsAminoCurso) - Bots created in a course using the BotAmino library in Python
+>[`Bots Amino Curso`](https://github.com/demeterrdev/BotsAminoCurso) - Bots created in a course using the BotAmino library in Python
 
->[`Drevenzz Bot`](https://github.com/demeter/drevenzz-bot) - Bot created by me for AminoApps.com in Python
+>[`Drevenzz Bot`](https://github.com/demeterrdev/drevenzz-bot) - Bot created by me for AminoApps.com in Python
 
 ### Meet me at
 
@@ -17,4 +17,4 @@
 
 #### Statistics
 
-![github_statistics](https://github-readme-stats.vercel.app/api?username=demeter&show_icons=true&theme=dark&hide_border=true)
+![github_statistics](https://github-readme-stats.vercel.app/api?username=demeterrdev&show_icons=true&theme=dark&hide_border=true)
